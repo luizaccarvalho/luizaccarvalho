@@ -14,7 +14,7 @@ I'm Full stack developer from Belo Horizonte, Brazil.
 | HTML | ⭐️ ⭐️ ⭐️ | 1 year of experience | 
 
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=luizaccarvalho&show_icons=true&count_private=true&theme=synthwave" width="380"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=luizaccarvalho&show_icons=true&count_private=true&theme=synthwave" width="400"></a>
 </p>&nbsp;
 
 <a href="https://www.linkedin.com/in/luizaccarvalho/">
