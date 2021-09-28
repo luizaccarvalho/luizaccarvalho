@@ -5,7 +5,7 @@ I'm Full stack developer from Belo Horizonte, Brazil.
 
 ### Skills 👩🏻‍💻
 
-| Skills |      Years of Experience     | Legend  | 
+| Skills |      Years of Experience     | Subtitle  | 
 |----------------|:-------------:|:-------------:|
 | PHP | ⭐️ ⭐️ ⭐️ ⭐️ | 2 years of experience | 
 | JavaScript |    ⭐️ ⭐️ ⭐️   | 1 year of experience | 
