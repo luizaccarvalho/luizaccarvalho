@@ -5,13 +5,13 @@ I'm Full stack developer from Belo Horizonte, Brazil.
 
 ### Skills 👩🏻‍💻
 
-| Skills |      Years of Experience     | Subtitle  | 
+| Skills |      Years of Experience     | 🌟 | 
 |----------------|:-------------:|:-------------:|
-| PHP | ⭐️ ⭐️ ⭐️ ⭐️ | 2 years of experience | 
-| JavaScript |    ⭐️ ⭐️ ⭐️   | 1 year of experience | 
-| Swift | ⭐️ ⭐️ | Work in progress | 
-| CSS | ⭐️ ⭐️ ⭐️ | 1 year of experience | 
-| HTML | ⭐️ ⭐️ ⭐️ | 1 year of experience | 
+| PHP | 2 years of experience | ⭐️ ⭐️ ⭐️ ⭐️ |
+| JavaScript | 1 year of experience |   ⭐️ ⭐️ ⭐️   |
+| Swift | Work in progress | ⭐️ ⭐️ |
+| CSS | 1 year of experience | ⭐️ ⭐️ ⭐️ |
+| HTML | 1 year of experience | ⭐️ ⭐️ ⭐️ | 
 
 <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=luizaccarvalho&show_icons=true&count_private=true&theme=synthwave" width="420"></a>
