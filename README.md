@@ -1,7 +1,7 @@
 # Luiza - @luizaccarvalho
 ### Hello Wolrd 🌎
 
-I'm Full stack developer from Belo Horizonte, Brazil.
+My name is Luiza, from Belo Horizonte Brazil. I'm a fullstack developer and big fan of cakes and heavy metal!
 
 ### Skills 👩🏻‍💻
 
