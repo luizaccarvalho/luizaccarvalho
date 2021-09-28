@@ -1,5 +1,25 @@
-### Hi there 👋
+# Luiza - @luizaccarvalho
+### Hello Wolrd 🌎
 
+I'm Full stack developer from Belo Horizonte, Brazil.
+
+### Skills 👩🏻‍💻
+
+| Skills |      Years of Experience     | Legend  | 
+|----------------|:-------------:|:-------------:|
+| PHP | ⭐️ ⭐️ ⭐️ ⭐️ | 2 years of experience | 
+| JavaScript |    ⭐️ ⭐️ ⭐️   | 1 year of experience | 
+| Swift | ⭐️ ⭐️ | Work in progress | 
+| CSS | ⭐️ ⭐️ ⭐️ | 1 year of experience | 
+| HTML | ⭐️ ⭐️ ⭐️ | 1 year of experience | 
+
+<p>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=luizaccarvalho&show_icons=true&count_private=true&theme=synthwave" width="465"></a>
+</p>&nbsp;
+
+<a href="https://www.linkedin.com/in/luizaccarvalho/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
 <!--
 **luizaccarvalho/luizaccarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
